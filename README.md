@@ -3,7 +3,7 @@ Rock Paper Scissor game in python3 and c
 
 requirements:
     
-    python3 and c compiler to compile c program
+    python3 and gcc (c compiler to compile c program)
 
 To run python program:
     
